@@ -15,9 +15,9 @@ import (
 	"math/big"
 	"time"
 
-	gm_plugins "github.com/zhigui-projects/gm-plugins"
-	"github.com/zhigui-projects/gm-plugins/primitive"
-	"github.com/zhigui-projects/gm-plugins/utils"
+	gm_plugins "github.com/xuchengli/gm-plugins"
+	"github.com/xuchengli/gm-plugins/primitive"
+	"github.com/xuchengli/gm-plugins/utils"
 )
 
 func ParsePKIXPublicKey(derBytes []byte, algoCap AlgoCapacity) (pub interface{}, err error) {

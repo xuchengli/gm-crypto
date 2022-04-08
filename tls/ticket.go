@@ -23,7 +23,7 @@ import (
 	"crypto/sha256"
 	"crypto/subtle"
 	"errors"
-	gm_plugins "github.com/zhigui-projects/gm-plugins"
+	gm_plugins "github.com/xuchengli/gm-plugins"
 	"hash"
 	"io"
 )

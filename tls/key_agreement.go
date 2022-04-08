@@ -29,7 +29,7 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/zhigui-projects/gm-plugins/primitive"
+	"github.com/xuchengli/gm-plugins/primitive"
 	"golang.org/x/crypto/curve25519"
 )
 

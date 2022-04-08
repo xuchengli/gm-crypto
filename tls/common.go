@@ -30,7 +30,7 @@ import (
 	"sync"
 	"time"
 
-	gcx "github.com/zhigui-projects/gm-crypto/x509"
+	gcx "github.com/xuchengli/gm-crypto/x509"
 )
 
 var isGM = true

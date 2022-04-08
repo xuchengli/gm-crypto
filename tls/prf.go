@@ -23,8 +23,8 @@ import (
 	"crypto/sha256"
 	"crypto/sha512"
 	"errors"
-	gmx509 "github.com/zhigui-projects/gm-crypto/x509"
-	gm_plugins "github.com/zhigui-projects/gm-plugins"
+	gmx509 "github.com/xuchengli/gm-crypto/x509"
+	gm_plugins "github.com/xuchengli/gm-plugins"
 	"hash"
 )
 

@@ -26,7 +26,7 @@ import (
 	s "crypto/tls"
 	x "crypto/x509"
 	"hash"
-	gm_plugins "github.com/zhigui-projects/gm-plugins"
+	gm_plugins "github.com/xuchengli/gm-plugins"
 	"golang.org/x/crypto/chacha20poly1305"
 )
 

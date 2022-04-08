@@ -27,8 +27,8 @@ import (
 	"fmt"
 	"io"
 
-	gcx "github.com/zhigui-projects/gm-crypto/x509"
-	"github.com/zhigui-projects/gm-plugins/primitive"
+	gcx "github.com/xuchengli/gm-crypto/x509"
+	"github.com/xuchengli/gm-plugins/primitive"
 )
 
 // serverHandshakeState contains details of a server handshake in progress.

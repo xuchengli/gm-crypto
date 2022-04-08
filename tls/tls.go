@@ -30,9 +30,9 @@ import (
 	"strings"
 	"time"
 
-	gcx "github.com/zhigui-projects/gm-crypto/x509"
-	gm_plugins "github.com/zhigui-projects/gm-plugins"
-	"github.com/zhigui-projects/gm-plugins/primitive"
+	gcx "github.com/xuchengli/gm-crypto/x509"
+	gm_plugins "github.com/xuchengli/gm-plugins"
+	"github.com/xuchengli/gm-plugins/primitive"
 )
 
 var SmCrypto = gm_plugins.GetSmCryptoSuite()
